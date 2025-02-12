@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://plus.unsplash.com/premium_photo-1675237625862-d982e7f44696?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    font-family: "Genos", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    color: darkred;
+}
+
+h1 {
+    font-optical-sizing: auto;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    font-family: "Genos", serif;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: 4px 4px #818a8b;
+}
+
+button:focus {
+    outline-color: #3e414f;
+    outline-width: 2px;
+}
+
+#increment-btn {
+    background: lightgoldenrodyellow;
+    color: brown;
+}
+
+#save-btn {
+    background: brown;
+    color: blanchedalmond;
+}
+
+.counter {
+    max-width: 80%;
+    margin: auto;
+    background: whitesmoke;
+    border-radius: 12px;
+    box-shadow: 4px 4px black;
+}
