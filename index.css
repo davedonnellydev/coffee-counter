@@ -1,12 +1,14 @@
 body {
-    background-image: url("https://plus.unsplash.com/premium_photo-1675237625862-d982e7f44696?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("https://images.unsplash.com/photo-1447933601403-0c6688de566e");
     background-size: cover;
     font-family: "Genos", serif;
     font-weight: 400;
     font-style: normal;
+    font-size: 1.2rem;
     text-align: center;
     display: flex;
     flex-direction: column;
+    align-items: center;
     color: darkred;
 }
 
@@ -30,11 +32,11 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
+    font-size: 1.1em;
     width: 200px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin: 5px 10px;
     border-radius: 5px;
-    box-shadow: 4px 4px #818a8b;
+    box-shadow: 4px 4px black;
 }
 
 button:focus {
@@ -54,8 +56,8 @@ button:focus {
 
 .counter {
     max-width: 80%;
-    margin: auto;
+    width: 60%;
     background: whitesmoke;
     border-radius: 12px;
-    box-shadow: 4px 4px black;
+    box-shadow: 4px 4px #818a8b;
 }
