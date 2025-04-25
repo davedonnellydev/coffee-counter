@@ -41,4 +41,4 @@ To run the project locally:
    ```
 
 
-3. Open `index.html` in your web browser. ([GitHub - davedonnellydev/Projects: A portfolio of projects](https://github.com/davedonnellydev/Projects?utm_source=chatgpt.com))
+3. Open `index.html` in your web browser.
